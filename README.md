@@ -4,7 +4,7 @@
 
 💡 Minha trajetória une o melhor de dois mundos: **infraestrutura corporativa** e **desenvolvimento de software**. Atuei com bancos de dados robustos como *Oracle* e *PostgreSQL*, criei automações e consultas otimizadas em SQL, e desenvolvi soluções web em diversas linguagens. 
 
-Hoje, meu foco está nas tecnologias que impulsionam a web moderna: **JavaScript, Node.js, React.js e PHP**.
+Hoje, meu foco está nas tecnologias que impulsionam a web moderna: **JavaScript, Node.js, React.js, TypeScript e PHP**.
 
 🌐 Tenho me aprofundado no ecossistema JavaScript — tanto no **front-end**, com React.js, quanto no **back-end**, com Node.js — além de integrar APIs REST, criar interfaces dinâmicas e trabalhar com persistência de dados eficiente. Também estou evoluindo com **PHP**, que amplia minha versatilidade no desenvolvimento web.
 
