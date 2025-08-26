@@ -1,6 +1,6 @@
 ## 👤 Sobre Mim
 
-🚀 **De suporte a protagonista em tecnologia**: sou Pedro Bertoni, desenvolvedor de software em formação e analista de suporte, apaixonado por transformar dados e código em soluções inteligentes.
+🚀 **De suporte a protagonista em tecnologia**: sou João Pedro Lourenço Ferreira, desenvolvedor de software em formação e analista de suporte, apaixonado por transformar dados e código em soluções inteligentes.
 
 💡 Minha trajetória une o melhor de dois mundos: **infraestrutura corporativa** e **desenvolvimento de software**. Atuei com bancos de dados robustos como *Oracle* e *PostgreSQL*, criei automações e consultas otimizadas em SQL, e desenvolvi soluções web em diversas linguagens. 
 
