@@ -8,9 +8,7 @@ Hoje, meu foco está nas tecnologias que impulsionam a web moderna: JavaScript, 
 
 🌐 Tenho me aprofundado no ecossistema JavaScript — tanto no front-end, com React.js, quanto no back-end, com Node.js — além de integrar APIs REST, criar interfaces dinâmicas e trabalhar com persistência de dados eficiente. Também estou evoluindo com PHP e o framework Laravel, por meio de um curso prático voltado ao desenvolvimento web completo, com foco em rotas, migrations, autenticação e boas práticas de arquitetura MVC.
 
-🔍 Essa vivência me proporcionou uma visão de processos ponta a ponta: consigo compreender como a TI impacta o negócio e traduzir necessidades reais em sistemas eficientes, escaláveis e bem estruturados.
-
-📈 Atualmente curso Engenharia de Software pela Uni-FACEF e estou em constante evolução, buscando sempre aprender mais e contribuir para projetos que entregam valor real.
+🔍 Essa vivência me proporcionou uma visão de processos ponta a ponta: consigo compreender como a TI impacta o negócio e traduzir necessidades reais em sistemas eficientes, escaláveis e bem estruturados. Atualmente curso Engenharia de Software pela Uni-FACEF e estou em constante evolução, buscando sempre aprender mais e contribuir para projetos que entregam valor real.
 
 🤝 Acredito que tecnologia vai além do código — ela conecta pessoas, processos e resultados. É nessa interseção que quero atuar e crescer.
 
