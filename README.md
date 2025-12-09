@@ -14,11 +14,11 @@ Hoje, meu foco está nas tecnologias que impulsionam a web moderna: JavaScript, 
 
 📈 Estatísticas do GitHub
 <p align="center">
-  <img height="165em"
+  <img height="180em"
     src="https://github-readme-stats-ouuan.vercel.app/api?username=jpedrolourenco08&show_icons=true&hide_border=true&bg_color=18191a&title_color=00FFFF&text_color=FFFFFF"
     alt="Estatísticas do GitHub" />
 
-  <img height="165em"
+  <img height="180em"
     src="https://github-readme-stats-ouuan.vercel.app/api/top-langs/?username=jpedrolourenco08&layout=compact&hide_border=true&bg_color=18191a&title_color=00FFFF&text_color=FFFFFF&hide=html,css,jupyter%20notebook"
     alt="Linguagens mais usadas" />
 </p>
