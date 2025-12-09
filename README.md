@@ -13,14 +13,9 @@ Hoje, meu foco está nas tecnologias que impulsionam a web moderna: JavaScript, 
 🤝 Acredito que tecnologia vai além do código — ela conecta pessoas, processos e resultados. É nessa interseção que quero atuar e crescer.
 
 📈 Estatísticas do GitHub
-<p align="center" style="display: flex; justify-content: center;">
-  <img height="165em"
-    src="https://github-readme-stats-ouuan.vercel.app/api?username=jpedrolourenco08&show_icons=true&hide_border=true&bg_color=18191a&title_color=00FFFF&text_color=FFFFFF"
-    alt="Estatísticas do GitHub" />
-
-  <img height="165em"
-    src="https://github-readme-stats-ouuan.vercel.app/api/top-langs/?username=jpedrolourenco08&layout=compact&hide_border=true&bg_color=18191a&title_color=00FFFF&text_color=FFFFFF&hide=html,css,jupyter%20notebook"
-    alt="Linguagens mais usadas" />
+<p align="center">
+  <img height="165em" src="https://github-readme-stats-ouuan.vercel.app/api?username=jpedrolourenco08&show_icons=true&hide_border=true&bg_color=18191a&title_color=00FFFF&text_color=FFFFFF" alt="Estatísticas do GitHub" />
+  <img height="165em" src="https://github-readme-stats-ouuan.vercel.app/api/top-langs/?username=jpedrolourenco08&layout=compact&hide_border=true&bg_color=18191a&title_color=00FFFF&text_color=FFFFFF&hide=html,css,jupyter%20notebook" alt="Linguagens mais usadas" />
 </p>
 
 💻 Habilidades e Tecnologias
