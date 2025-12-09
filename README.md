@@ -14,8 +14,13 @@ Hoje, meu foco está nas tecnologias que impulsionam a web moderna: JavaScript, 
 
 📈 Estatísticas do GitHub
 <p align="center">
-  <img height="165em" src="https://github-readme-stats-git-masterorg-vercel-api.vercel.app/api?username=jpedrolourenco08&show_icons=true&hide_border=true&bg_color=18191a&title_color=00FFFF&text_color=FFFFFF" alt="Estatísticas do GitHub" />
-  <img height="165em" src="https://github-readme-stats-git-masterorg-vercel-api.vercel-app/api/top-langs/?username=jpedrolourenco08&layout=compact&hide_border=true&bg_color=18191a&title_color=00FFFF&text_color=FFFFFF&hide=html,css,jupyter%20notebook" alt="Linguagens mais usadas" />
+  <img height="165em"
+    src="https://github-readme-stats.vercel.app/api?username=jpedrolourenco08&show_icons=true&hide_border=true&bg_color=18191a&title_color=00FFFF&text_color=FFFFFF&cache_seconds=1800"
+    alt="Estatísticas do GitHub" />
+    
+  <img height="165em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrolourenco08&layout=compact&hide_border=true&bg_color=18191a&title_color=00FFFF&text_color=FFFFFF&hide=html,css,jupyter%20notebook&cache_seconds=1800"
+    alt="Linguagens mais usadas" />
 </p>
 💻 Habilidades e Tecnologias
 <p align="center"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </p>
